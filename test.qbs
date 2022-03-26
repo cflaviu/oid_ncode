@@ -14,7 +14,8 @@ CppApplication {
 		"/usr/local/lib/libCatch2.a",
 	]
 	files: [
-	    "test/unit.cpp",
+        "test/unit.cpp",
+        "test/unit_raw.cpp",
 	]
 }
 

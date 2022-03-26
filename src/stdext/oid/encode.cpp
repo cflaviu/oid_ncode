@@ -1,5 +1,5 @@
 #include "stdext/oid/ncode.hpp"
-#include "stdext/oid/utils.hpp"
+#include "stdext/oid/ncode_raw.hpp"
 #include <algorithm>
 #include <array>
 

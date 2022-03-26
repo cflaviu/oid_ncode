@@ -9,7 +9,8 @@ StaticLibrary {
     install: true
     files: [
         "api/stdext/oid/ncode.hpp",
-        "inc/stdext/oid/utils.hpp",
+        "api/stdext/oid/ncode_raw.hpp",
+        "api/stdext/oid/utils.hpp",
         "src/stdext/oid/encode.cpp",
         "src/stdext/oid/decode.cpp",
     ]

@@ -3,8 +3,9 @@
 
 namespace stdext::oid
 {
-    struct Fixture
+    class Fixture
     {
+    public:
         void execute(const char* oid)
         {
             input_oid = oid;
